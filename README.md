@@ -1,4 +1,4 @@
-# Project Garuda
+# Project Phoenix
 
 This project is being done by the (Internet of Things Pune)[internetofthings-pune.blogspot.com] Group.
 
@@ -16,3 +16,6 @@ To include all design / documentation for building a quadcopter for the benefit 
 v1 - A Flying Machine!
 v2 - Capable of aerial photography.
 v3 - Capable of flying into any room and being able to map the dimensions.
+
+## Contributors
+Anuj Deshpande
